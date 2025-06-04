@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 I'm a Computer Engineering graduate and a QA/QC Engineer at The Automation Ghana Group. I love working with great, enthusiastic engineering teams that challenge me and help me grow, and I'm always seeking opportunities to contribute to both the industrial and educational sectors.
-- ![Profile views](https://komarev.com/ghpvc/?username=Joewus12345&style=for-the-badge&color=050F2C)
+> ![Profile views](https://komarev.com/ghpvc/?username=Joewus12345&style=for-the-badge&color=050F2C)
 
 ---
 
