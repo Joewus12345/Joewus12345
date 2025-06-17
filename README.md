@@ -2,7 +2,29 @@
 
 ## 🚀 About Me
 
-I'm a Computer Engineering graduate and a QA/QC Engineer at The Automation Ghana Group. I love working with great, enthusiastic engineering teams that challenge me and help me grow, and I'm always seeking opportunities to contribute to both the industrial and educational sectors.
+I'm a Computer Engineer with a strong focus on building scalable web applications and automating development workflows. I specialize in JavaScript/TypeScript ecosystems, with hands-on experience in **Next.js, React, Node.js,** and backend systems using **PostgreSQL, Firebase, and Prisma**.
+
+My DevOps interests include **CI/CD pipelines, Docker, GitHub Actions,** and **Cloudflare Workers**—all in service of shipping fast and maintaining reliability.
+
+I’m currently developing **Assistly**, an AI-powered chatbot platform with real-time communication, web scraping, and intelligent support actions—all integrated into a clean, user-centric dashboard.
+
+✅ **What I bring:**
+
+- "**Production-ready full stack development (frontend to backend)**"
+
+- "**DevOps mindset for continuous improvement & deployment**"
+
+- "**Practical experience with automation, scraping, and system integration**"
+
+- "**A collaborative approach to solving real-world problems with modern tools**"
+
+🔎 **Looking to connect with:**
+
+- "**Tech-driven companies in need of versatile full stack or DevOps talent**"
+
+- "**Developers and product teams interested in AI, automation, or SaaS tools**"
+
+📫 **Let’s talk:** [[LinkedIn](https://www.linkedin.com/in/joseph-owusu-gyimah-29980b209/)] | Open to freelance, contract, and full-time roles
 > ![Profile views](https://komarev.com/ghpvc/?username=Joewus12345&style=for-the-badge&color=050F2C)
 
 ---
