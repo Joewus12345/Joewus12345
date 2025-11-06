@@ -8,19 +8,19 @@
 
 <p align="center">I’m currently developing <b>Assistly</b>, an AI-powered chatbot platform with real-time communication, web scraping, and intelligent support actions—all integrated into a clean, user-centric dashboard.</p>
 
-<details align="justify">
+<details align="center">
   <summary align="center">✅ <b>What I bring:</b></summary>
   
-  - "**Production-ready full stack development (frontend to backend)**"
- 
   - "**DevOps mindset for continuous improvement & deployment**"
+  
+  - "**Production-ready full stack development (frontend to backend)**"
 
   - "**Practical experience with automation, scraping, and system integration**"
 
   - "**A collaborative approach to solving real-world problems with modern tools**"
 </details>
 
-<details align="justify">
+<details align="center">
   <summary align="center">🔎 <b>Looking to connect with:</b></summary>
   
   - "**Tech-driven companies in need of versatile full stack or DevOps talent**"
@@ -34,7 +34,7 @@
 <p align="center">&nbsp;<img src="https://komarev.com/ghpvc/?username=Joewus12345&color=brightgreen" alt=""/></p>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">💻 <b>Technical Skills</b></summary>
   
   - **Programming Languages:** JavaScript (most proficient), C++, C, Python
@@ -53,16 +53,16 @@
 <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Joewus12345" alt="Trophy" /></p>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">🌟 <b>Featured Projects</b></summary>
   
+  - **[NetSuite crawler and scraper](https://github.com/Joewus12345/netsuite_crawler):** A custom data automation solution for my current company.
   - **[ai-script-agent](https://ai-script-gen-agent.vercel.app/):** AI agent for analyzing YouTube videos and skipping ads.
-- **[portfolio_2025](https://devportfolio-one.vercel.app/):** My personal portfolio site.
-- **[NetSuite crawler and scraper](https://github.com/Joewus12345/netsuite_crawler):** A custom data automation solution for my current company.
+  - **[portfolio_2025](https://devportfolio-one.vercel.app/):** My personal portfolio site.
 </details>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">📚 <b>Favorites</b></summary>
   
   - **Business Book:** _Think and Grow Rich_ by Napoleon Hill
@@ -70,14 +70,14 @@
 </details>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">🌍 <b>If Money Wasn't an Issue</b></summary>
   
   I’d be traveling the world to experience new cultures—and probably exploring agriculture!
 </details>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">🦸‍♂️ <b>Superpowers</b></summary>
   
 - Attention to detail
@@ -85,7 +85,7 @@
 </details>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">💬 <b>Words of Wisdom</b></summary>
   
 > Dreams without goals are just dreams.  
@@ -100,7 +100,7 @@
 </details>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">🙌 <b>What I'm Passionate About</b></summary>
   
 - Design and building process (Zero to One)
@@ -109,25 +109,25 @@
 </details>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">🏆 <b>Most Impactful Class</b></summary>
   
+- Object Oriented Programming
 - Distributed Computing
 - Final Year Project
-- Object Oriented Programming
-- Databases
 - Networking
+- Databases
 </details>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">⏳ <b>Something I Wish I Did Earlier</b></summary>
   
 - Started programming!
 </details>
 <h2></h2>
 
-<details align="justify">
+<details align="center">
   <summary align="center">💪 <b>Biggest Obstacle Overcome</b></summary>
   
 - Learning to ask for help and relying on my teammates
