@@ -46,10 +46,10 @@
 <h2></h2>
 
 <h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Joewus12345&show_icons=true&rank_icon=github&locale=en&theme=transparent" alt="GitHub stats" /></p>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joewus12345&layout=compact&&langs_count=10&show_icons=true&theme=transparent" alt="Top Langs" /></p>
-<p align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Joewus12345" alt="GitHub Streak" /></p>
+<!-- Was using the endpoint `github-readme-stats.vercel.app` but it has not been working for a while now so I switched to the current one which is `github-readme-stats-eight-theta.vercel.app`  -->
+<p align="center">&nbsp;<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joewus12345&show_icons=true&rank_icon=github&locale=en&theme=transparent" alt="GitHub stats" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joewus12345&layout=compact&&langs_count=10&show_icons=true&theme=transparent" alt="Top Langs" /></p>
+<!-- <p align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Joewus12345" alt="GitHub Streak" /></p> -->
 <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Joewus12345" alt="Trophy" /></p>
 <h2></h2>
 
